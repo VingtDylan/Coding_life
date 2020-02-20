@@ -3,7 +3,7 @@
 [toc]
 ### 题目描述
 
-给定一个整数数组`nums`和一个目标值`target`，请你在该数组中找出和为目标值的那两个整数，并返回他们的数组下标。
+给定一个整数数组 `nums` 和一个目标值 `target`，请你在该数组中找出和为目标值的那 **两个** 整数，并返回他们的数组下标。 
 
 你可以假设每种输入只会对应于一个答案。但是，你不能重复利用这个数组中同样的元素。
 
@@ -23,7 +23,7 @@ HashMap常数级查找
 
 ### 示例代码
 
-#### 1.TLE暴力搜索(看看热闹)(C++ v1)
+* #### 暴力搜索(看看热闹)(C++ v1)
 
 ```c++
 class Solution {
@@ -40,7 +40,7 @@ public:
 };
 ```
 
-#### 2.HashMap查找(C++ v1)
+* #### HashMap查找(C++ v2)
 
 ```c++
 class Solution {
@@ -59,7 +59,7 @@ public:
 };
 ```
 
-#### 3.Python(v1)
+* #### Python(v1)
 
 ```python
 class Solution:
@@ -79,7 +79,7 @@ class Solution:
 
 ```
 
-#### 4.Python(v2)
+* #### Python(v2)
 
 ```python
 class Solution:

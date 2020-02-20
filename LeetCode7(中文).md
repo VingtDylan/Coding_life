@@ -34,7 +34,7 @@
 
 ### 示例代码
 
-#### 1.XXXX(C++ v1)
+* #### XXXX(C++ v1)
 
 ```C++
 class Solution {
@@ -45,7 +45,7 @@ public:
 };
 ```
 
-#### 2.XXXX(Python v1)
+* #### XXXX(Python v1)
 
 ```python
 class Solution(object):
@@ -56,7 +56,7 @@ class Solution(object):
         '''
 ```
 
-#### 3.
+* #### continued
 
 
 [^footnote]:快乐菜醒每一天!
